@@ -9,6 +9,4 @@ user_name = st.text_input("What's your name?")
 
 # Greet the user
 if user_name:
-    st.write(f'Hello, {user_name! Welcome to your first Streamlit app!')
-
-# Run the app with: streamlit run hello_streamlit.py
+  st.write(f'Hello, {user_name}! Welcome to your first Streamlit app!')
