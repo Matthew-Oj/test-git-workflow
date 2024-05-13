@@ -12,5 +12,3 @@ st.image('linktoimage.png')
 # Greet the user
 if user_name:
     st.write(f'Hello, {user_name}! Welcome to your first Streamlit app!')
-
-
